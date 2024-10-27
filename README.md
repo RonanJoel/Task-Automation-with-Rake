@@ -1,6 +1,4 @@
-# Task Automation Project with Rake
-# Task-Automation-with-Rake
-# Automatisation of Tasks with Rake (Ruby)
+
 # Automatisation of Tasks with Rake (Ruby)
 
 This project demonstrates how to automate tasks using Rake in Ruby.
