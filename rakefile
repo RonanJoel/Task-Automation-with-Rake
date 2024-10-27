@@ -1,0 +1,6 @@
+# Rakefile
+
+require_relative 'lib/tasks'
+
+# Tareas predeterminadas
+task default: :example_task
