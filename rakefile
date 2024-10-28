@@ -1,8 +1,7 @@
-# Rakefile
 
-# Rakefile
+
+
 Dir.glob('lib/tasks/**/*.rake').each { |r| load r }
 
 
-# Tareas predeterminadas
 task default: :example_task
