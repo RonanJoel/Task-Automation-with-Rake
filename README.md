@@ -30,3 +30,20 @@ This project demonstrates how to automate tasks using Rake in Ruby.
 - `rake my_tasks:create_directory`: Creates a new directory called `my_directory`.
 - `rake my_tasks:cleanup`: Cleans up temporary files.
 
+# Task Automation with Rake
+
+Este proyecto utiliza Rake y Python para automatizar y simplificar tareas repetitivas y de mantenimiento en el desarrollo de software. La interfaz gráfica creada con Tkinter permite ejecutar tareas de manera interactiva.
+
+## Requisitos Previos
+- Ruby (versión 3.3.5 o superior)
+- Rake (gem install rake)
+- Python (versión 3.6 o superior)
+
+## Instalación
+Clona el repositorio y navega al directorio del proyecto:
+
+```bash
+git clone https://github.com/RonanJoel/Task-Automation-with-Rake.git
+cd Task-Automation-with-Rake
+
+
