@@ -1,0 +1,9 @@
+2024-10-27 23:56:03.578249: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-27 23:56:07.347968: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:06:10.055786: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:06:14.324850: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:09:27.661931: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:09:28.783239: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:09:29.479294: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:09:30.144275: Tarea ejecutada con éxito: Hello from example_task!
+2024-10-28 00:09:30.856207: Tarea ejecutada con éxito: Hello from example_task!
